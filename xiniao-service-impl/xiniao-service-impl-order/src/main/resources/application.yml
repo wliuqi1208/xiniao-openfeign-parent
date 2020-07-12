@@ -1,0 +1,12 @@
+spring:
+    application:
+    ### 服务名称
+       name: xiniao-order
+    cloud:
+      nacos:
+        discovery:
+        ### 注册地址
+          server-addr: 127.0.0.1:8848
+
+server:
+  port: 8090
