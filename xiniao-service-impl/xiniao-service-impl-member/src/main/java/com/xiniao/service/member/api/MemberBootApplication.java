@@ -14,6 +14,7 @@ public class MemberBootApplication {
         SpringApplication.run(MemberBootApplication.class);
         System.out.println("菩萨保佑，会员项目启动成功！");
         System.out.println("打印日志");
+        System.out.println("打印日志20200719！");
     }
 
 
