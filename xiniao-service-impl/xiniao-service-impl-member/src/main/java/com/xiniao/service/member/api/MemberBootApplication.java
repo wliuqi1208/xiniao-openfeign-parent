@@ -13,7 +13,7 @@ public class MemberBootApplication {
     public static void main(String[] args) {
         SpringApplication.run(MemberBootApplication.class);
         System.out.println("菩萨保佑，会员项目启动成功！");
-        System.out.println("打印日志");
+        System.out.println("master打印日志");
     }
 
 
