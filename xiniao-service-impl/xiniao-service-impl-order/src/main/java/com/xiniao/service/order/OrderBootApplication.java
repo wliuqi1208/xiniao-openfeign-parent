@@ -16,6 +16,7 @@ public class OrderBootApplication {
     public static void main(String[] args) {
         SpringApplication.run(OrderBootApplication.class);
         System.out.println("菩萨保佑，订单项目启动成功！");
+        System.out.println("******20200803测试一把");
     }
 
 }
